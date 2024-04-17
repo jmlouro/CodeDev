@@ -1,0 +1,37 @@
+h1 {
+    color: brown
+}
+h2 {
+    color: purple
+}
+
+#red {
+    color:red
+}
+
+#blue {
+    color:blue
+}
+
+#orange {
+    color:orange
+}
+
+#green {
+    color:green
+}
+
+#yellow {
+    color: rgb(222, 216, 43)
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.color-title {
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
